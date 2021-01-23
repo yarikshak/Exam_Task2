@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Exam_Task2\Exam_Task2\bin\Debug\Exam_Task2.exe.config
+C:\Users\User\source\repos\Exam_Task2\Exam_Task2\bin\Debug\Exam_Task2.exe
+C:\Users\User\source\repos\Exam_Task2\Exam_Task2\bin\Debug\Exam_Task2.pdb
+C:\Users\User\source\repos\Exam_Task2\Exam_Task2\obj\Debug\Exam_Task2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Task2\Exam_Task2\obj\Debug\Exam_Task2.exe
+C:\Users\User\source\repos\Exam_Task2\Exam_Task2\obj\Debug\Exam_Task2.pdb
